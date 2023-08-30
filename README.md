@@ -11,7 +11,7 @@ $ pkg install git
 $ pip install requests
 $ pip install rich
 $ pip install bs4
-$ git clone https://Dekura-X/Crack
+$ git clone https://github.com/Dekura-X/Crack
 ```
 ### Menjalankan Script
 ```
