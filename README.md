@@ -1,7 +1,7 @@
 # Dekura-X CRACK
 ### Fitur Login
 ```
-[âœ¯] Login Cookies   
+[⭐] Login Cookies   
 ```
 ### Install Script Di Termux
 ```
